@@ -1,0 +1,17 @@
+# Node modules papkasi (hech qachon yuklamaymiz)
+node_modules/
+
+# Maxfiy konfiguratsiya fayli
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS fayllari (Windows / Mac)
+.DS_Store
+Thumbs.db
+
+# VS Code konfiguratsiyasi
+.vscode/
