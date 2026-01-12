@@ -15,3 +15,5 @@ Thumbs.db
 
 # VS Code konfiguratsiyasi
 .vscode/
+#env
+.env
